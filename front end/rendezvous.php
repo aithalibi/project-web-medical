@@ -78,7 +78,7 @@ $medecins = [
             <div class="appointment-layout">
                 <div class="appointment-form-section">
                     <div class="form-card">
-                        <form method="POST" action="">
+                        <form method="POST" action="" id="appointment-form">
                             <div class="form-step active" id="step-1">
                                 <h3><i class="fas fa-stethoscope"></i> Choisissez une spécialité</h3>
                                 
@@ -218,5 +218,8 @@ $medecins = [
             </section>
         </div>
     </main>
+    
+    <!-- Script JavaScript -->
+    <script src="assets/script.js"></script>
 </body>
 </html>

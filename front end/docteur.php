@@ -368,6 +368,7 @@ $notifications = [
         </div>
     </main>
     
-    <?php include 'includes/footer.php'; ?>
+    <!-- Script JavaScript -->
+    <script src="assets/script.js"></script>
 </body>
 </html>

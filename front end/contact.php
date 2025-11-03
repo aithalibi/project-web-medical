@@ -244,5 +244,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['send_message'])) {
             </section>
         </div>
     </main>
+    
+    <!-- Script JavaScript -->
+    <script src="assets/script.js"></script>
 </body>
 </html>

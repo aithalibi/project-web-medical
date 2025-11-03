@@ -163,5 +163,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </div>
     </div>
     
+    <!-- Script JavaScript -->
+    <script src="assets/script.js"></script>
 </body>
 </html>

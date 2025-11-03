@@ -237,5 +237,8 @@ $vaccinations = [
             </section>
         </div>
     </main>
+    
+    <!-- Script JavaScript -->
+    <script src="assets/script.js"></script>
 </body>
 </html>

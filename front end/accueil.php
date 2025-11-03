@@ -200,6 +200,12 @@ $user_name = $_SESSION['user_name'] ?? 'Patient';
                 </div>
             </div>
         </section>
+        
+        <!-- Container pour afficher les rendez-vous dynamiquement -->
+        <div id="appointments-container" style="display: none;"></div>
     </main>
+    
+    <!-- Script JavaScript -->
+    <script src="assets/script.js"></script>
 </body>
 </html>
